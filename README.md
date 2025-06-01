@@ -24,7 +24,7 @@ npm run dev
 
 - Thư mục `weekly_report/`: Chứa các file báo cáo tiến độ từng tuần.
 - File `B22DCCN228__proposal.pdf`: Đề cương dự án 
-
+- DaoThuCongDaSy : Code dự án 
 ---
 
 ## License
