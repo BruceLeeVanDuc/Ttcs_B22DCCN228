@@ -1,12 +1,12 @@
 # Ttcs_B22DCCN228
 
 ## Hướng dẫn chạy dự án
-###1. Git clone về
+### 1.Git clone về
 ```sh
 git clone https://github.com/BruceLeeVanDuc/Ttcs_B22DCCN228.git
 ```
 
-###2. Tải file daokeo2.sql
+### 2. Tải file daokeo2.sql
 ```sh
 - sử dụng Xampp, phpAdmin để tạo data daokeo .
 -Tạo cơ sở dữ liệu tên daokeo import file daokeo2.sql vào
