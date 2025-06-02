@@ -5,6 +5,7 @@
 ```sh
 git clone https://github.com/BruceLeeVanDuc/Ttcs_B22DCCN228.git
 ```
+
 ###2. Tải file daokeo2.sql
 ```sh
 - sử dụng Xampp, phpAdmin để tạo data daokeo .
@@ -23,7 +24,7 @@ php artisan migrate
 php artisan serve
 ```
 
-### 3. Frontend (React + Vite)
+### 4. Frontend (React + Vite)
 ```sh
 cd DaoThuCongDaSy/daothucong-vite
 npm install
