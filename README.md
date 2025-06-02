@@ -1,8 +1,11 @@
 # Ttcs_B22DCCN228
 
 ## Hướng dẫn chạy dự án
+###1. Git clone về
+git clone https://github.com/BruceLeeVanDuc/Ttcs_B22DCCN228.git
 
-### 1. Backend (Laravel)
+
+### 2. Backend (Laravel)
 ```sh
 cd DaoThuCongDaSy/daokeo-laravel
 composer install
@@ -13,7 +16,7 @@ php artisan migrate
 php artisan serve
 ```
 
-### 2. Frontend (React + Vite)
+### 3. Frontend (React + Vite)
 ```sh
 cd DaoThuCongDaSy/daothucong-vite
 npm install
