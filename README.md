@@ -10,8 +10,9 @@ git clone https://github.com/BruceLeeVanDuc/Ttcs_B22DCCN228.git
 - sử dụng Xampp, phpAdmin để tạo data daokeo .
 -Tạo cơ sở dữ liệu tên daokeo import file daokeo2.sql vào
 -Đổi file .env chỗ Backend laravel DB_DATABASE=daokeo
-``
-### 2. Backend (Laravel)
+```
+
+### 3. Backend (Laravel)
 ```sh
 cd DaoThuCongDaSy/daokeo-laravel
 composer install
