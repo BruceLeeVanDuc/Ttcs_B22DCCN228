@@ -2,6 +2,7 @@
 
 ## Hướng dẫn chạy dự án
 ###1. Git clone về
+```sh
 git clone https://github.com/BruceLeeVanDuc/Ttcs_B22DCCN228.git
 
 
