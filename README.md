@@ -4,7 +4,7 @@
 ###1. Git clone về
 ```sh
 git clone https://github.com/BruceLeeVanDuc/Ttcs_B22DCCN228.git
-
+```
 
 ### 2. Backend (Laravel)
 ```sh
